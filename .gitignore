@@ -1,0 +1,72 @@
+# ============================================================
+# Sensitive credentials - NEVER upload these
+# ============================================================
+
+prototype/en/controlpanel/pythoncode/models/My Project 46621-cef0972fe98d.json
+prototype/en/controlpanel/pythoncode/models/i-melody-252617-1fb5789ed767.json
+prototype/en/controlpanel/pythoncode/models/i-melody-252617-98a7ec40a330.json
+prototype/en/controlpanel/pythoncode/models/i-melody-252617-a5cd26f1f96d.json
+prototype/en/controlpanel/pythoncode/models/i-melody-252617-c82c58c9d70c.json
+prototype/en/controlpanel/pythoncode/models/i-melody-252617-f1e189cb78e9.json
+prototype/en/controlpanel/pythoncode/models/iott1-e4685-7f0f437d42c2.json
+prototype/en/controlpanel/pythoncode/models/s2t-oauth-id.json
+
+
+# ============================================================
+# General secrets / environment files
+# ============================================================
+
+.env
+.env.*
+*.pem
+*.key
+
+
+# ============================================================
+# Node.js dependencies
+# ============================================================
+
+node_modules/
+
+
+# ============================================================
+# Python generated files
+# ============================================================
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+# ============================================================
+# IDE generated files
+# ============================================================
+
+.idea/
+.vscode/
+
+
+# ============================================================
+# Python build output
+# ============================================================
+
+dist/
+*.spec
+
+
+# ============================================================
+# ROS / Catkin generated files
+# ============================================================
+
+prototype/en/controlpanel/simulation_ws/build/
+prototype/en/controlpanel/simulation_ws/devel/
+prototype/en/controlpanel/simulation_ws/install/
+
+
+# ============================================================
+# Operating system generated files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini

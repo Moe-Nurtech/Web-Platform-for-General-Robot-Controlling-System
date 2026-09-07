@@ -1,0 +1,1 @@
+netsh interface ip show address "Wi-Fi" | findstr "IP Address"

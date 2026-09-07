@@ -1,0 +1,12 @@
+{
+"area": ["shapes"],
+"age": ["day", "month","year" ],
+"bmi": ["height", "weight"],
+"water_intake": ["weight", "t_minutes"],
+"shapes.triangle": ["b_t", "h_t"],
+"shapes.square": ["s_s"],
+"shapes.rectangle": ["s1", "s2"],
+"shapes.circle": ["r"],
+"shapes.trapezoid": ["b", "h", "a"],
+"shapes.parallelogram": ["bb", "hh"]
+}
